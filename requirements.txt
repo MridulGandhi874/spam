@@ -1,4 +1,3 @@
 nltk
 Streamlit
 scikit-learn
-nltk.tokenize PUNKTOKENZIE
